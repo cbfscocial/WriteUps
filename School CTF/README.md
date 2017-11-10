@@ -1,2 +1,42 @@
-![WriteUps_School%20CTF]
-(hhttps://github.com/cbfscocial/WriteUps/blob/master/School%20CTF/img/task.png)
+## Заходим в задание и видим
+![task](https://user-images.githubusercontent.com/19409332/32657236-1035d8ca-c626-11e7-9b45-458fb57d9039.png)
+
+Смотрим изображение: 
+
+![tetris](https://user-images.githubusercontent.com/19409332/32657290-437f0a4e-c626-11e7-982a-cdbc4dcfaf5d.png)
+
+Что же с ним делать? Начнем с zsteg:
+
+![zsteg](https://user-images.githubusercontent.com/19409332/32658041-2bbdb1a0-c629-11e7-99c3-55251c7c3d09.png)
+
+Ничего интересно, дальше пойдет stegsolve:
+
+![stegsolve](https://user-images.githubusercontent.com/19409332/32658040-2b536bba-c629-11e7-8810-8fe58d807ba6.png)
+
+
+Вот тут уже интереснее т.к в черно-белом варианте это похоже на байт код. Смотрим, каждый 8ой бит это черный блок, значит он и будет равен 0. Получаем код: 
+01010011
+01100011
+01101000
+01101111
+01101111
+01101100
+01000011
+01010100
+01000110
+01111011
+01010100
+00110011
+01010100
+01010010
+01001001
+00100100
+01011111
+01001100
+00110000
+01010110
+01000101
+01010010
+01111101
+
+Переводим в текст и получам флаг: SchoolCTF{T3TRI$_L0VER}
