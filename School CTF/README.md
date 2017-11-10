@@ -1,3 +1,3 @@
 Заходим в задание и видим следующее: 
-![Stego_200]
+![Image alt]
 (https://github.com/cbfscocial/WriteUps/blob/master/School%20CTF/task.png)
