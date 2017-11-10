@@ -1,2 +1,2 @@
-![Image alt]
-(https://github.com/cbfscocial/WriteUps/raw/master/img/task.png
+![alt text]
+(hhttps://github.com/cbfscocial/WriteUps/blob/master/School%20CTF/img/task.png)
