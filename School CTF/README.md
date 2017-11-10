@@ -1,4 +1,4 @@
-#### STEGO 200
+# STEGO 200
 
 ## Заходим в задание и видим
 ![task](https://user-images.githubusercontent.com/19409332/32657236-1035d8ca-c626-11e7-9b45-458fb57d9039.png)
