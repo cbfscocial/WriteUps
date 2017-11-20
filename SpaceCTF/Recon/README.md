@@ -20,6 +20,7 @@
 
 Опять ничего сложного, смотрим в подписки:
 
+![image](https://puu.sh/ypSar/2d0ca3bdee.png)
 ![image](https://user-images.githubusercontent.com/19409332/33011603-82b41cce-cdef-11e7-9dea-dc3ebd632de1.png)
 
 
